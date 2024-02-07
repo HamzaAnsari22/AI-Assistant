@@ -2,10 +2,6 @@
 
 ## Python powered J.A.R.V.I.S
 
-[![GitHub issues](https://img.shields.io/github/issues/GauravSingh9356/J.A.R.V.I.S)](https://github.com/GauravSingh9356/J.A.R.V.I.S/issues)
-[![GitHub forks](https://img.shields.io/github/forks/GauravSingh9356/J.A.R.V.I.S)](https://github.com/GauravSingh9356/J.A.R.V.I.S/network)
-[![GitHub stars](https://img.shields.io/github/stars/GauravSingh9356/J.A.R.V.I.S)](https://github.com/GauravSingh9356/J.A.R.V.I.S/stargazers)
-[![GitHub license](https://img.shields.io/github/license/GauravSingh9356/J.A.R.V.I.S)](https://github.com/GauravSingh9356/J.A.R.V.I.S/blob/master/LICENSE)
 
 <img src="jarvis1.jpg"/>
 
@@ -99,12 +95,11 @@ sudo apt-get update && sudo apt-get install espeak
   
    <li><h2> Jarvis, Can you send email to Gaurav?</h2></li>
   <li><h2>What I say sir, Sir</h2></li>
-   <li><h2>Gaurav is a good boy</h2></li>
+   <li><h2>Hamza is a good boy</h2></li>
   <li><h2> Email is sent successfully, Sir</h2></li>
   
   # And so on....
-  
-<a href="https://devophub.blogspot.com/2020/10/jarvis-v20-is-released-come-and.html" target="_blank">Read complete blog article</a>
+ 
 
 ## Contribution:
 
